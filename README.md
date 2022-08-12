@@ -1,6 +1,4 @@
-### Olá
 
-- 🌱 Estudando Go
 
 <div align="center">
   <a href="https://github.com/Lucassec1">
