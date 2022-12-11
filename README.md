@@ -8,4 +8,4 @@ Hi there
   
 My Skills!
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
