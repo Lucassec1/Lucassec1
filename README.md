@@ -5,10 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassec1&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-## :books: About me!
+## :books: About Me!
 - 🌱 Learning Angular, TypeScript and Jest
-- :blue_book: Reading about clean code, design patterns and clean arquitecture
+- :blue_book: Reading about Design Patterns, Clean Code and Clean Arquitecture
   
-## My Skills!
+## :star2: My Skills!
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,angular,react,nodejs)](https://skillicons.dev)
