@@ -1,4 +1,4 @@
-Hi there
+# Hi there :wave:
 
 <div align="center">
   <a href="https://github.com/Lucassec1">
