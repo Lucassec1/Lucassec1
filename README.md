@@ -11,4 +11,4 @@
   
 ## :star2: My Skills!
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,angular,react,tailwind,nodejs,postgres,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jest,angular,react,tailwind,nodejs,git,postgres,figma)](https://skillicons.dev)
