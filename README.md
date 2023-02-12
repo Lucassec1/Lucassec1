@@ -9,6 +9,6 @@
 - 🌱 Learning Angular, TypeScript and Jest
 - :blue_book: Reading about Design Patterns, Clean Code and Clean Arquitecture
   
-## :star2: My Skills!
+## :star2: Main Skills!
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,jest,angular,react,tailwind,nodejs,git,postgres,figma)](https://skillicons.dev)
