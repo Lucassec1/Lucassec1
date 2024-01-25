@@ -6,7 +6,7 @@
 </div>
   
 ## :books: About Me!
-- 🌱 Learning Angular, TypeScript and Jest
+- 🌱 Learning Node and Jest
 - :blue_book: Reading about Design Patterns, Clean Code and Clean Arquitecture
   
 ## :star2: Main Skills!
