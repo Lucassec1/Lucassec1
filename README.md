@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucassec1&color=6366F1&style=flat-square&label=Profile+Views" />
 </p>
+
 ---
 
 # 👋 About Me
