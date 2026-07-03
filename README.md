@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6366F1&text=Lucas%20Siqueira&fontColor=ffffff&fontSize=50&fontAlignY=29&animation=fadeIn&descAlignY=49&desc=Software%20Engineer%20|%20Full%20Stack%20Engineer%20|%20Backend%20Engineer" alt="Animated banner reading 'Lucas Siqueira — Software Engineer | Full Stack Engineer | Backend Engineer'" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6366F1&text=Lucas%20Siqueira&fontColor=ffffff&fontSize=50&fontAlignY=29&animation=fadeIn&descAlignY=49&desc=Software%20Engineer%20|%20Full%20Stack%20Engineer%20|%20Backend%20Engineer" alt="Animated banner reading 'Lucas Siqueira — Software Engineer | Full Stack Engineer | Backend Engineer'" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 
 ---
 
-# 👋 About Me
+# 🧑🏻‍💻 About Me
 
 My focus is building scalable applications that solve real problems, with close attention to the architecture behind them.
 
@@ -73,6 +73,7 @@ My core expertise is in backend engineering, developing APIs with Node.js and Ne
 
 - 🎵 **Electio** — platform for managing music repertoires, built with Next.js and NestJS *(private repository)*
 - 🛒 **Furniro E-commerce** — furniture/fashion e-commerce platform focused on performance and scalability (TypeScript, frontend and backend)
+
 ---
 
 # 📊 GitHub Stats
