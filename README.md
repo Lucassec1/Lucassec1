@@ -17,14 +17,14 @@ My focus is building scalable applications that solve real problems, with close 
 
 My core expertise is in backend engineering, developing APIs with Node.js and NestJS, working with microservices, containerization, and database modeling in agile environments. I also work on the frontend with React and Next.js, and I'm currently deepening my knowledge in system design, software architecture, and AI-assisted engineering.
 
-**Interests:**
+**My main interests are:**
 
 - 🏗️ Backend Architecture & Microservices
 - 🔌 APIs & Distributed Systems
 - 🧪 Code Quality & Automated Testing
 - 🤖 AI-assisted Engineering
 
-**Currently focused on:**
+**Currently focused on improving skills in:**
 
 - System design and software architecture
 - AI applied to software engineering
