@@ -86,7 +86,6 @@ My core expertise is in backend engineering, developing APIs with Node.js and Ne
 
 # 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasemmanuelcs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassec1)
 
 <p align="center">
